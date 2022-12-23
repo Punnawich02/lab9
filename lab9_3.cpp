@@ -18,7 +18,7 @@ using namespace std;
 
 int main()
 {
-    int bounty;
+    long bounty;
     double height;
     string character;
     
